@@ -2,6 +2,8 @@
 
 These are just few of TikTok algorithms that is used by the mobile application. It might be useful for your next TikTok project.
 
+[![image](https://github.com/user-attachments/assets/6c937e4f-e496-43ea-9ebf-e8b1b68b5a3f)](https://oxapay.com/donate/43013861)
+
 # Looking for TikTok Scraper API?
 https://github.com/ssovit/tiktok-scraper with device registration routine, all the scrappers api endpoints available in python
 
@@ -25,8 +27,10 @@ https://github.com/ssovit/tiktok-scraper with device registration routine, all t
 See `main.py` file and see usage example of each algorithm implementations.
 
 ## Want to contribute?
-
 Sure, make a pull request.
+
+[![image](https://github.com/user-attachments/assets/6c937e4f-e496-43ea-9ebf-e8b1b68b5a3f)](https://oxapay.com/donate/43013861)
+
 
 ## Disclaimer
 
